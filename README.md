@@ -4,7 +4,7 @@
 
 ```
 conda create -n RGDA python=3.7
-source activate RGDAT  
+source activate RGDA
 git clone git@github.com:zhangxincode/RGDA.git
 cd RGDA  
 pip install -r requirement.txt 
